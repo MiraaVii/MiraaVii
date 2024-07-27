@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiraaVii
-- 👀 I’m interested in DataSciencee and ML-Models
+- 👀 I’m interested in DataScience and ML-Models
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ML_Projects
 - 😄 Pronouns: ask
